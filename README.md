@@ -20,5 +20,12 @@ This is my space for new journey once start Docker Training Course from KodeKlou
 
 ### 08. Container Orchestration
 
+![image](https://user-images.githubusercontent.com/25337881/206201186-e18388df-fd76-49b2-aad7-f44e71ef2697.png)
+
+
+#### Docker Swarm
+
+
+
 
 
