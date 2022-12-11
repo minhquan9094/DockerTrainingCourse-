@@ -2,7 +2,7 @@
 
 
 
-### Real Lab: Build docker image with FLASK
+### Lab01: Build docker image with FLASK
 
 
 #### Step to create image
