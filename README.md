@@ -12,6 +12,9 @@ This is my space for new journey once start Docker Training Course from KodeKlou
 
 ### 04. Docker Compose
 
+![image](https://user-images.githubusercontent.com/25337881/207853988-729ed4d8-0af9-4c62-827f-3b19b44b0a6f.png)
+
+
 ### 05. Docker Engine and Storage
 
 ### 06. Docker networking
