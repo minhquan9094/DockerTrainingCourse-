@@ -11,8 +11,13 @@
 ### User-defined networks
 
 ```
+## attach network to container
+docker run -d --name=mysql-db -e MYSQL_ROOT_PASSWORD=db_pass123 --network wp-mysql-network mysql:5.6
+
+
+
 ## Create network
-docker network create --driver brigde --subnet 192.168.100.0/24 new-network-name
+docker network create --driver bridge --subnet 192.168.100.0/24 --gateway 192.168.100.1 new-network-name
 
 ## verify setup
 docker network ls
